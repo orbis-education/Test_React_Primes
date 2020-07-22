@@ -4,7 +4,7 @@ The goal of this assignment is to test your knowledge of JavaScript and React by
 
 ## **Guidelines**
 
-This program should display all the prime integers from 0 through 75.
+This program should display all the prime integers from 1 through 75.
 
 ## **Tasks**
 
